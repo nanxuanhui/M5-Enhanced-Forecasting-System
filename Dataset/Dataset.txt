@@ -1,0 +1,2 @@
+Download the dataset as following link:
+https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
