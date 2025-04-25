@@ -1,4 +1,4 @@
-# M5-Enhanced-Forecasting-System
+# M5 Enhanced Forecasting System
 
 This project presents an advanced forecasting dashboard for the M5 Forecasting Challenge, integrating deep learning, quantile regression, model explainability (SHAP), and business intelligence components.
 
