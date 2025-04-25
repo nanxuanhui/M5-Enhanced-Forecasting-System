@@ -82,8 +82,4 @@ Dashboard features:
 - `top10_item_errors.png` / `top10_store_errors.png` → High-error entities
 - `m5_streamlit_dashboard.py` → Main Streamlit app file
 
----
-
-> Maintained by: [Your Name]  ｜ Contact: [your_email@example.com]
-
 
